@@ -1,0 +1,7 @@
+# Ignore backend and frontend dependencies
+node_modules/
+client/node_modules/
+
+# Ignore environment secrets
+.env
+server/.env
